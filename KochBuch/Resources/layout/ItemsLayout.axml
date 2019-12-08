@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="50pt"
+    android:layout_height="wrap_content"
+    android:padding="2pt">
+    <LinearLayout
+        android:id="@+id/Text"
+        android:orientation="vertical"
+        android:layout_width="100pt"
+        android:paddingLeft="10dip"
+        android:layout_height="wrap_content"
+        android:background="#d9d9d9">
+        <ImageView
+            android:id="@+id/Image"
+            android:src="@android:drawable/sym_def_app_icon"
+            android:layout_height="105.5dp"
+            android:layout_width="83.5dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginRight="0.0dp" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="90.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout1"
+            android:backgroundTint="#00000000"
+            android:background="@android:color/background_dark">
+            <TextView
+                android:layout_width="90.5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/Text1"
+                android:text="test"
+                android:textStyle="bold"
+                android:textSize="13dp"
+                android:textColor="#000000" />
+            <TextView
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Text2"
+                android:text="test"
+                android:textSize="12dp"
+                android:textColor="#000000" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

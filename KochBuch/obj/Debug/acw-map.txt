@@ -1,0 +1,40 @@
+KochBuch.Board, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Board
+KochBuch.Board, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Board
+KochBuch.Board;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Board
+kochbuch.Board;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Board
+KochBuch.Italien, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Italien
+KochBuch.Italien, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Italien
+KochBuch.Italien;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Italien
+kochbuch.Italien;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Italien
+KochBuch.List, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.List
+KochBuch.List, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.List
+KochBuch.List;md542f6d4e6c5e3dfd51592a8ba34c23e0a.List
+kochbuch.List;md542f6d4e6c5e3dfd51592a8ba34c23e0a.List
+KochBuch.HomeScreenAdapter2, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter2
+KochBuch.HomeScreenAdapter2, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter2
+KochBuch.HomeScreenAdapter2;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter2
+kochbuch.HomeScreenAdapter2;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter2
+KochBuch.MainActivity, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.MainActivity
+KochBuch.MainActivity, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.MainActivity
+KochBuch.MainActivity;md542f6d4e6c5e3dfd51592a8ba34c23e0a.MainActivity
+kochbuch.MainActivity;md542f6d4e6c5e3dfd51592a8ba34c23e0a.MainActivity
+KochBuch.HomeScreenAdapter, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter
+KochBuch.HomeScreenAdapter, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter
+KochBuch.HomeScreenAdapter;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter
+kochbuch.HomeScreenAdapter;md542f6d4e6c5e3dfd51592a8ba34c23e0a.HomeScreenAdapter
+KochBuch.Portugal, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Portugal
+KochBuch.Portugal, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Portugal
+KochBuch.Portugal;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Portugal
+kochbuch.Portugal;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Portugal
+KochBuch.Frankreich, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Frankreich
+KochBuch.Frankreich, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Frankreich
+KochBuch.Frankreich;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Frankreich
+kochbuch.Frankreich;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Frankreich
+KochBuch.Spanien, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Spanien
+KochBuch.Spanien, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Spanien
+KochBuch.Spanien;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Spanien
+kochbuch.Spanien;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Spanien
+KochBuch.Turkey, KochBuch;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Turkey
+KochBuch.Turkey, KochBuch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Turkey
+KochBuch.Turkey;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Turkey
+kochbuch.Turkey;md542f6d4e6c5e3dfd51592a8ba34c23e0a.Turkey

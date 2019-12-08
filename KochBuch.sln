@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KochBuch", "KochBuch\KochBuch.csproj", "{9CA11489-5F67-456A-939B-B59CB5F293FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA11489-5F67-456A-939B-B59CB5F293FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA11489-5F67-456A-939B-B59CB5F293FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA11489-5F67-456A-939B-B59CB5F293FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9CA11489-5F67-456A-939B-B59CB5F293FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA11489-5F67-456A-939B-B59CB5F293FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA11489-5F67-456A-939B-B59CB5F293FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA75A1C3-90F1-4DD8-BAF7-113C69F185C6}
+	EndGlobalSection
+EndGlobal

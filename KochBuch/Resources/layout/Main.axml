@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@android:color/background_light">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1">
+        <ImageView
+            android:src="@drawable/logo"
+            android:layout_width="match_parent"
+            android:layout_height="80.0dp"
+            android:id="@+id/imageView1"
+            android:maxHeight="30pt"
+            android:maxWidth="30pt"
+            android:layout_marginRight="15dp" />
+        <View
+            android:id="@+id/separator"
+            android:background="#0c0b0b"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_centerVertical="true"
+            android:layout_alignParentTop="true" />
+        <TextView
+            android:text="KochBuch V 0.1"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold"
+            android:paddingLeft="20pt"
+            android:textAlignment="center"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="20dp" />
+        <TextView
+            android:text="EMA Projekt Ws 18/19"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="31.0dp"
+            android:id="@+id/textView2"
+            android:textColor="@android:color/background_dark"
+            android:textStyle="bold"
+            android:paddingLeft="40pt" />
+        <TextView
+            android:text="Ein offline Kochbuch, das vielfältige und internationale Rezepte enthält. Es besteht aus 36 Rezepten aus 6 Ländern."
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:textColor="@android:color/background_dark"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+    </LinearLayout>
+    <View
+        android:id="@+id/separator"
+        android:background="#0c0b0b"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:layout_centerVertical="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp" />
+    <GridView
+        android:numColumns="3"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridView1" />
+</LinearLayout>
